@@ -99,3 +99,6 @@ Low-fidelity wireframes = great for early exploration and communication of ideas
 
 High-fidelity wireframes = great for finalizing design details, usability testing, and developer guidance.
 
+## type of wireframe is: 
+high-fidelity wireframes
+
