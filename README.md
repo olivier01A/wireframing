@@ -23,3 +23,79 @@ Functionality highlights interactive elements such as buttons, input fields, for
 
 By clearly defining these elements, wireframes make it easier to test usability, gather feedback, and ensure that the final product aligns with both business goals and user needs.
 
+# Types of Wireframes
+
+## 1. Low-Fidelity Wireframes
+
+### Definition:
+
+.Rough, simple sketches of the design.
+
+.Focuses on structure and layout, not on visual details.
+
+.Usually black-and-white, often with placeholders like boxes for images and "lorem ipsum" for text.
+
+### Characteristics:
+
+.Minimal detail.
+
+.Created quickly, often by hand or with simple tools.
+
+.Emphasizes overall layout, content hierarchy, and functionality rather than aesthetics.
+
+### When Used:
+
+.Early in the design process.
+
+.Useful for brainstorming and exploring multiple design directions.
+
+.Helps identify usability issues and user flow before investing time in visuals.
+
+.Often shared during initial stakeholder discussions to align on structure and core ideas.
+
+### Example:
+A sketch of a homepage showing a header at the top, a search bar in the middle, and navigation links on the left.
+
+## 2. High-Fidelity Wireframes
+
+### Definition:
+
+.Detailed and polished representations of the design.
+
+.Looks close to the final product, including colors, typography, spacing, and images.
+
+.May include clickable elements to simulate user interaction (interactive prototypes).
+
+### Characteristics:
+
+.Rich detail and design accuracy.
+
+.Focuses on visual design, branding, and precise interactions.
+
+.Requires more time and advanced tools (e.g., Figma, Adobe XD, Sketch).
+
+### When Used:
+
+.Later in the design process, once the structure is approved.
+
+.Helpful for usability testing, stakeholder presentations, and developer handoff.
+
+.Provides a clear blueprint for implementation.
+
+### Example:
+A realistic homepage mockup showing the company’s logo, exact fonts, branded colors, interactive buttons, and sample images.
+
+Key Differences Summary
+Aspect	Low-Fidelity Wireframes	High-Fidelity Wireframes
+Detail Level	Simple, minimal, abstract	Detailed, realistic, polished
+Focus	Layout & functionality	Visual design & interactivity
+Speed	Quick to create	Time-intensive
+Tools	Paper, whiteboard, Balsamiq	Figma, Adobe XD, Sketch
+Stage of Use	Early ideation, brainstorming	Later stages, usability testing, development handoff
+
+### In short:
+
+Low-fidelity wireframes = great for early exploration and communication of ideas.
+
+High-fidelity wireframes = great for finalizing design details, usability testing, and developer guidance.
+
